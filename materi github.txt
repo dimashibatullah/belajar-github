@@ -2,3 +2,5 @@ nama nama materi:
 Apa itu git dan github
 bekerja dengan github
 github:branch
+catat isi materi tiap episode
+
